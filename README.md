@@ -1,4 +1,4 @@
-# DESC
+# Description
 
 Simple Hello World Program Written In x64 Assembly
 
@@ -6,11 +6,11 @@ Simple Hello World Program Written In x64 Assembly
 
 I use NASM, the commands would be 
 
-#Assemble:
+Assemble:
 
 nasm -f elf64 HelloWorld.asm 
 
-#Link:
+Link:
 
 ld -o filename HelloWorld.o
 
